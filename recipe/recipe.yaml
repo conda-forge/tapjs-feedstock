@@ -1,5 +1,5 @@
 context:
-  version: "21.0.1"
+  version: "21.1.0"
 
 package:
   name: tapjs
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/tap/-/tap-${{ version }}.tgz
-  sha256: 4dde0a2bd6f86e5e40f5e823eab749f0e90dadec4bc603b5af3eb6339d049b45
+  sha256: a0e480ba956cfba5db3df6fd4907bed8d490b2a8586a2aa7901fe1f7af074504
 
 build:
   number: 0
